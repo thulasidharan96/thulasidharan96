@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently Studying on B.E Computer Science and Engineering<br>🌱 I’m currently learning Java and Web Development <br>
+🔭 I’m currently Studying on B.E Computer Science and Engineering<br>🌱 I’m currently learning Java and Web Development and Cybersecurity <br>
 
 
 ## 🌐 Socials:
