@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Thulasidharan (td)
+# 👋 Hi, I'm Thulasidharan S
 
 🚀 Full-Stack & Mobile Engineer | Infrastructure • DevOps • Cybersecurity  
 💀 Building end-to-end systems: Web • Mobile • APIs • Cloud • Secure Architectures  
