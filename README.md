@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Thulasidharan S
 
-🚀 Full-Stack & Mobile Engineer | Infrastructure • DevOps • Cybersecurity  
+🚀 Full-Stack & CyberSecurity Engineer | Infrastructure • DevOps
 💀 Building end-to-end systems: Web • Mobile • APIs • Cloud • Secure Architectures  
 
 ---
