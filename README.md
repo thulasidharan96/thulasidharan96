@@ -1,5 +1,4 @@
 # Hi, I'm Thulasidharan S
-<iframe src="https://github.com/sponsors/thulasidharan96/card" title="Sponsor thulasidharan96" height="225" width="600" style="border: 0;"></iframe>
 
 🚀 Full-Stack & CyberSecurity Engineer | Infrastructure • DevOps
 💀 Building end-to-end systems: Web • Mobile • APIs • Cloud • Secure Architectures  
